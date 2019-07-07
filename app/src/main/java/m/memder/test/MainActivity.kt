@@ -14,6 +14,10 @@ class MainActivity : AppCompatActivity() {
         exampleList.add(VideoClass("https://www.dropbox.com/s/n5lcbrymyvhnj53/file_photo_54485087_2087444998006526_7735827937999454208_n.png?dl=1"))
         exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
         exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
+        exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
+        exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
+        exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
+        exampleList.add(VideoClass("https://www.dropbox.com/s/s7ysvarted7fkze/file_52561210_1902052596584790_1932957839815344128_n.mp4?dl=1"))
 
 
         val verticalView: VerticalView?

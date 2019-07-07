@@ -12,7 +12,7 @@ import java.util.List;
 
 public class AdapterPages extends FragmentStatePagerAdapter {
     private List<VideoClass> videoclass;
-    static int count = -1;
+    static int count = 0;
     static int pos = -100;
     public AdapterPages(FragmentManager fm, List<VideoClass> videos)
     {
